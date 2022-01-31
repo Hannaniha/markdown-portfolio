@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of yaktocat]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcats%2Fcomments%2Fms6kx4%2Fcat_on_yak%2F&psig=AOvVaw2i0hBP3Guzx9501ZOnN_J8&ust=1643725209149000&source=images&cd=vfe&ved=2ahUKEwiY_e7al9z1AhUggGMGHQ4aCvcQr4kDegUIARDGAQ
